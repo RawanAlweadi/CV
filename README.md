@@ -22,9 +22,4 @@ Eğitim durumu : öğrenci<br>
 <h3>EĞİTİM:</h3>
  20 LISESI,SAUDI ARABISTAN.<BR>
  17 EYLUL UNIVERSITESI,YAZILIM MUHENDISLIK BOLUMU.<BR>
-</font>
-</center>
 
-
-</body>
-</html>
