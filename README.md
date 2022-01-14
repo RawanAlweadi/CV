@@ -5,7 +5,6 @@
 <body>
 
 <br><br>
-<center>
 <font face size="5" color="black">
 <font size="6"><h3>RAWAN ALWADEAI.<br><h3></font>
 <img src="raw.png.png" height="150px" widht="150px"><br>
@@ -18,7 +17,6 @@ Ad Soyad: Rawan Alwadeai.<br>
 Doğum tarihi: 3/6/2002<br>
 Doğum yeri: Yemen<br>
 Eğitim durumu : öğrenci<br>
-
 <h3>EĞİTİM:</h3>
  20 LISESI,SAUDI ARABISTAN.<BR>
  17 EYLUL UNIVERSITESI,YAZILIM MUHENDISLIK BOLUMU.<BR>
